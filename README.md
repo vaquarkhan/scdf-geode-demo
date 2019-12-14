@@ -4,6 +4,8 @@ This repo showcases how Geode can be used in a simple streaming data pipeline. T
 ![Demo Pipeline Diagram](diagram.png)
 
 
+- https://www.youtube.com/watch?v=QdgPMiC0SSM
+
 # Setup
 In this demo we will set up a local cluster with minikube and deploy a pipeline that grabs from a file source and enriches the payload with data from geode. We use micrometer to grab throughput and count metrics.
 
